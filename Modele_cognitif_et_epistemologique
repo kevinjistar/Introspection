@@ -3,7 +3,7 @@ Document : Modele_cognitif_et_epistemologique
 ---
 
 # Modèle cognitif et épistémologique de Captain  
-Document de référence fonctionnelle, version de travail
+Document de référence fonctionnelle, version de travail (mise à jour)
 
 ## Préambule et périmètre
 
@@ -15,7 +15,8 @@ Il ne s’agit ni d’un manifeste intellectuel ni d’un cadre normatif univers
 Ce modèle éclaire :
 - la manière dont Captain structure un raisonnement,
 - ce qu’il considère comme valide, invalide ou non encore déterminé,
-- pourquoi certaines conversations progressent rapidement avec lui et d’autres se figent.
+- pourquoi certaines conversations progressent rapidement avec lui et d’autres se figent,
+- et comment il transforme la compréhension en décision.
 
 ---
 
@@ -27,12 +28,6 @@ Certitude : très élevée (≈ 90–95%)
 Captain pense prioritairement en systèmes plutôt qu’en événements isolés.  
 Il cherche des structures récurrentes, des principes organisateurs et des invariants plutôt que des explications circonstancielles.
 
-Il privilégie les questions du type :
-- comment cela fonctionne,
-- sous quelles conditions,
-- selon quels mécanismes,
-- avec quelles limites.
-
 L’anecdote n’a de valeur que comme signal ou illustration, jamais comme preuve suffisante.
 
 ---
@@ -40,14 +35,11 @@ L’anecdote n’a de valeur que comme signal ou illustration, jamais comme preu
 ### 1.2 Dépassement de l’opposition émotion / raison  
 Certitude : très élevée (≈ 90%)
 
-Captain ne conçoit pas l’intellect et l’émotion comme des pôles antagonistes.  
-Il les considère comme deux expressions d’un même matériau humain, opérant à des échelles temporelles et structurelles différentes.
+Captain considère l’émotion et la raison comme deux niveaux de traitement d’un même matériau informationnel.
 
 Dans ce modèle :
 - l’émotion est une information brute, locale et immédiate,
-- l’intellect est une émotion métabolisée, structurée et stabilisée dans le temps.
-
-Ce cadre rend caducs les débats binaires sur la “domination de la raison” ou la “répression émotionnelle”.
+- le raisonnement est une émotion intégrée, stabilisée et rendue exploitable dans le temps.
 
 ---
 
@@ -56,26 +48,16 @@ Ce cadre rend caducs les débats binaires sur la “domination de la raison” o
 ### 2.1 Pensée en gradients plutôt qu’en catégories  
 Certitude : très élevée (≈ 95%)
 
-Captain raisonne en spectres, probabilités et degrés, rarement en oppositions nettes.  
-Il distingue systématiquement :
-- structure et comportement,
-- intention et effet,
-- capacité et choix,
-- ressenti et régulation.
-
-Les absolus ne sont acceptés que lorsqu’ils sont empiriquement ou logiquement contraints.
+Captain raisonne en probabilités, gradients et niveaux de certitude.  
+Les oppositions binaires sont utilisées uniquement lorsqu’elles sont structurellement contraintes.
 
 ---
 
-### 2.2 Capacité à soutenir des idées inconfortables simultanément  
+### 2.2 Capacité à soutenir des hypothèses incompatibles  
 Certitude : très élevée (≈ 90–95%)
 
-Captain peut maintenir plusieurs hypothèses incompatibles sans forcer leur résolution prématurée.  
-Il tolère l’inconfort cognitif tant que le cadre reste explicite.
-
-Il préfère :
-- une hypothèse incomplète mais honnête,
-- à une certitude rapide mais fragile.
+Captain peut maintenir plusieurs modèles concurrents sans forcer leur résolution prématurée.  
+Il privilégie la robustesse du cadre à la rapidité de la conclusion.
 
 ---
 
@@ -85,82 +67,63 @@ Il préfère :
 Certitude : très élevée (≈ 95%)
 
 Captain distingue rigoureusement :
-1. ce qu’il affirme en son nom (adhésion),
-2. ce qu’il décrit comme observation générale,
-3. ce qu’il explore comme hypothèse non adoptée.
+1. l’adhésion personnelle,
+2. l’observation descriptive,
+3. l’hypothèse exploratoire.
 
-Cette séparation est centrale.  
-Toute confusion entre ces niveaux est perçue comme une erreur méthodologique, pas comme un simple malentendu.
+Toute confusion entre ces niveaux invalide la discussion.
 
 ---
 
-### 3.2 Décomposition du raisonnement  
+### 3.2 Décomposition séquentielle du raisonnement  
 Certitude : très élevée (≈ 95%)
 
-Son raisonnement suit généralement la séquence suivante :
+Séquence typique :
 - observation,
 - hypothèse explicative,
 - inférence,
 - test de cohérence,
 - attribution d’un niveau de certitude.
 
-Les conclusions non reliées explicitement aux étapes précédentes sont immédiatement suspectes.
-
 ---
 
 ## 4. Rapport à la vérité et à la validité
 
-### 4.1 Vérité comme processus, non comme posture  
+### 4.1 Vérité comme processus  
 Certitude : très élevée (≈ 90%)
-
-Captain ne cherche pas à “avoir raison” au sens social ou statutaire.  
-Il cherche à produire des modèles suffisamment justes pour prédire, expliquer ou décider.
 
 La vérité est conçue comme :
 - provisoire,
 - contextuelle,
-- améliorable par confrontation.
+- révisable par confrontation.
 
-Changer d’avis est un ajustement, pas une défaite.
+Changer de position est un ajustement, pas une perte de statut.
 
 ---
 
 ### 4.2 Aversion à la malhonnêteté cognitive  
 Certitude : élevée (≈ 85–90%)
 
-Captain est peu sensible aux erreurs honnêtes, mais très sensible :
-- aux raccourcis inférentiels non assumés,
-- aux glissements sémantiques opportunistes,
-- aux raisonnements motivés par l’image plutôt que par la justesse.
-
-La malhonnêteté cognitive, même involontaire, est perçue comme un bruit destructeur.
+Captain tolère l’erreur honnête mais rejette :
+- les glissements opportunistes,
+- les récits auto-protecteurs,
+- les raisonnements motivés par l’image plutôt que par la validité.
 
 ---
 
 ## 5. Rapport au langage et à la précision
 
-### 5.1 Le langage comme outil de modélisation  
+### 5.1 Langage comme outil de modélisation  
 Certitude : très élevée (≈ 95%)
 
-Pour Captain, le langage n’est pas décoratif.  
-Il est un instrument de précision destiné à :
-- réduire l’ambiguïté,
-- stabiliser les référents,
-- rendre les hypothèses testables.
-
-Le choix des mots, la structure des phrases et la clarification des termes sont des éléments fonctionnels du raisonnement.
+Le langage est un instrument fonctionnel destiné à réduire l’ambiguïté et rendre les hypothèses testables.
 
 ---
 
-### 5.2 Sensibilité élevée aux glissements sémantiques  
+### 5.2 Sensibilité aux glissements sémantiques  
 Certitude : très élevée (≈ 95%)
 
-Captain détecte rapidement :
-- les confusions de registre,
-- les réponses à côté,
-- les interprétations projectives.
-
-Quand un glissement n’est pas corrigé, il considère que le contrat intellectuel est rompu et que la discussion perd sa valeur.
+Un glissement non corrigé rompt le contrat épistémique de l’échange.
 
 ---
 
@@ -169,23 +132,14 @@ Quand un glissement n’est pas corrigé, il considère que le contrat intellect
 ### 6.1 Tolérance élevée à l’incertitude explicite  
 Certitude : très élevée (≈ 90–95%)
 
-Captain tolère très bien le non-savoir tant qu’il est nommé.  
-Il préfère un “je ne sais pas encore” clair à une réponse floue présentée comme acquise.
-
-L’incertitude devient problématique uniquement lorsqu’elle est masquée ou instrumentalisée.
+Le non-savoir nommé est préférable à une certitude fragile.
 
 ---
 
 ### 6.2 Désaccord comme outil de calibration  
 Certitude : très élevée (≈ 90%)
 
-Le désaccord n’est pas une menace, mais un moyen de tester la robustesse d’un modèle.  
-Captain accepte volontiers d’être challengé si :
-- l’argumentation est propre,
-- les prémisses sont explicites,
-- les conclusions sont proportionnées.
-
-Un désaccord mal structuré est plus coûteux qu’un accord faible.
+Le désaccord est utilisé pour tester la robustesse d’un modèle, non pour défendre une identité.
 
 ---
 
@@ -195,20 +149,14 @@ Un désaccord mal structuré est plus coûteux qu’un accord faible.
 Certitude : élevée (≈ 85–90%)
 
 Captain privilégie les échanges à forte valeur informationnelle.  
-Les détours sont acceptés uniquement s’ils servent :
-- la compréhension mutuelle,
-- la continuité du système relationnel,
-- ou la robustesse de la solution.
-
 Le bruit cognitif est perçu comme une perte de bande passante.
 
 ---
 
-### 7.2 Rapport fonctionnel aux étapes relationnelles  
+### 7.2 Étapes relationnelles comme moyens  
 Certitude : élevée (≈ 85%)
 
-Captain n’exclut pas les étapes de validation émotionnelle, mais les considère comme des moyens, non des fins.  
-Il les intègre lorsqu’elles rendent la suite du raisonnement possible ou plus efficace.
+Les validations émotionnelles sont intégrées uniquement lorsqu’elles facilitent la progression du raisonnement.
 
 ---
 
@@ -217,40 +165,61 @@ Il les intègre lorsqu’elles rendent la suite du raisonnement possible ou plus
 ### 8.1 Surestimation implicite de la capacité moyenne  
 Certitude : moyenne (≈ 65–70%)
 
-Captain peut parfois présumer chez l’autre :
-- une capacité de distinction,
-- une tolérance à la complexité,
-- une rigueur minimale,
-qui ne sont pas toujours présentes.
-
-Cela peut créer un décalage entre son modèle interne et la réalité de l’interlocuteur.
+Captain peut présumer chez l’autre une rigueur ou une tolérance à la complexité qui n’est pas toujours présente.
 
 ---
 
-### 8.2 Coût cognitif de la correction permanente  
+### 8.2 Coût cumulatif de la correction  
 Certitude : moyenne à élevée (≈ 70–75%)
 
-La nécessité répétée de corriger des glissements ou des amalgames peut :
-- ralentir la progression,
-- déplacer l’échange vers un mode défensif,
-- augmenter la fatigue cognitive.
-
-Ce coût est réel, même s’il est souvent rationalisé.
+La correction permanente génère une fatigue cognitive réelle, même lorsqu’elle est justifiée.
 
 ---
 
-## Synthèse fonctionnelle
+## 9. Axes épistémiques directeurs et critères décisionnels
+
+### 9.1 Cohérence interne (axe non négociable)
+
+Un modèle, une relation ou une décision est invalide s’il :
+- nécessite des rationalisations permanentes,
+- repose sur des exceptions ad hoc,
+- impose une dissociation interne prolongée.
+
+La cohérence interne prime sur le confort émotionnel.
+
+---
+
+### 9.2 Compréhension causale
+
+Captain cherche systématiquement :
+- ce qui produit un comportement,
+- pourquoi il se répète,
+- dans quelles conditions il disparaîtrait.
+
+Une explication sans mécanisme causal explicite est considérée comme incomplète.
+
+---
+
+### 9.3 Apprentissage transférable
+
+Un événement ou une relation n’est pleinement intégré que s’il permet :
+- d’extraire un invariant,
+- de modifier les décisions futures,
+- d’éviter la répétition du même schéma sous une autre forme.
+
+Une compréhension qui ne transforme rien est jugée insuffisante.
+
+---
+
+## Synthèse fonctionnelle mise à jour
 
 Le modèle cognitif et épistémologique de Captain repose sur :
 - une pensée systémique et non binaire,
 - une séparation stricte des niveaux de discours,
-- une exigence élevée de précision et de validité,
-- une conception processuelle de la vérité,
+- une exigence élevée de cohérence interne,
+- une recherche de compréhension causale,
+- une volonté explicite d’apprentissage transférable,
 - une aversion marquée au bruit et à la malhonnêteté cognitive.
 
 Ce modèle est un levier puissant de clarté, de lucidité et de décision.  
-Il devient coûteux uniquement lorsque l’environnement ne permet pas, ou ne souhaite pas, soutenir ce niveau de rigueur.
-
-Ce document constitue la base logique des fichiers suivants, notamment :
-- le guide d’interaction avec Captain,
-- et l’usage stratégique de sa rigueur.
+Il devient coûteux uniquement lorsque l’environnement ne permet pas de soutenir ce niveau d’exigence.
